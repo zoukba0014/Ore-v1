@@ -1,0 +1,2 @@
+[workspace]
+members = ["ore-cli-consumer", "ore-cli-producter"]
